@@ -1,3 +1,4 @@
+
 # Validación de Tarjeta de Crédito
 
 
@@ -15,8 +16,8 @@ El proyecto está destinado a colaborar con los gatitos abandonados en el parque
 
 Mediante esta página de donaciones se busca recaudar fondos para así poder brindarle a los gatitos comida, atención veterinaria y cosas necesarias en el día a día.
 
-![pagina principal](https://user-images.githubusercontent.com/40776002/229826529-ee5068c6-3836-47ed-9aff-c0fca1265f43.PNG)
-![scroll pasarela de pago](https://user-images.githubusercontent.com/40776002/229826609-6daa68f0-91b9-4287-98ce-7b8838b6ba2e.PNG)
+![pagina principal](https://user-images.githubusercontent.com/40776002/229833747-b37017c2-4451-4250-9c81-7ee50d937499.PNG)
+![scroll pasarela de pago](https://user-images.githubusercontent.com/40776002/229833723-f22fe1bb-a4fd-4c86-b85a-88fc57ea5eaf.PNG)
 
 
 
@@ -51,7 +52,7 @@ Semana 3:
 
 Para el proyecto desde un inicio se pensó en algo simple y funcional, este es el prototipo de baja fidelidad 
 
-![Prototipo_baja_fidelidad_1](https://user-images.githubusercontent.com/40776002/229824135-a536dd6a-360f-4618-906b-ab2b9e34b179.jpg)
+![Prototipo_baja_fidelidad_1](https://user-images.githubusercontent.com/40776002/229833698-f4b7ed6b-ef28-49ca-ae9c-688d0daf6db1.jpg)
 
 
 
